@@ -1,6 +1,6 @@
 ## Notes regarding this project ##
 This project took about 5 weeks to complete. During that time, our original team repository (which is currently private) had over 400 commits.
-As of December 2024, this software can be partially accessed at https://project-3-53-church-of-lightfoot.onrender.com/. Full access to every component of this SaaS can only be accomplished by a Google-authenticated user that has been granted administrative privileges.
+As of December 2024, this software can be partially accessed at https://project-3-53-church-of-lightfoot.onrender.com/. Backend-dependent components may take up to a minute to fully load. Full access to every component of this SaaS can only be accomplished by a Google-authenticated user that has been granted administrative privileges.
 
 Because this repository is a public duplicate of the original private repository, I have removed all commit history and redacted all passwords and API keys.
 
